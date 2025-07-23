@@ -1,0 +1,80 @@
+html{
+
+}
+body{
+	margin:0;
+	padding:3vh;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace, Helvetica, Arial, sans-serif;
+	color: #bd0a0a;
+	font-size: 12px;
+	line-height: 18px;
+	text-decoration: none;
+	text-transform:lowercase;
+	background: url(background.jpg) no-repeat;
+	background-size: cover;
+	background-position: top center;
+	min-height: 100vh;
+}
+h1{
+	font-weight: normal;
+	font-size: 1em;
+	margin:0 0 20px 0;
+	padding: 0;
+}
+ul{
+	margin:0 0 20px 0;
+	padding: 0;
+	list-style: none;
+}
+main{
+	
+
+}
+a{
+	text-decoration: none;
+	color:#bd0a0a;
+}
+a:hover{
+	color:#3bdb25;
+}
+
+
+.slider{
+	width: 600px;
+	max-width: 94%;
+}
+
+@media only screen and (min-width: 1000px) {
+  .slider {margin: 50px auto;}
+}
+ 
+.img-box img{
+	width:100%;
+	border:10px solid #ff9d5b37;
+
+}
+
+.contact_text{
+	text-decoration: none;
+	color:#343637;
+	width: 333px;
+	max-width: 94%;
+}
+
+
+.btn{
+	border:none;
+	outline:none;
+	background:none;
+	padding:10px 10px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace, Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	color:#bd0a0a;
+	cursor: pointer;
+	margin:10px auto;			 
+}
+
+.btn:hover{
+	background: none;
+	color:#3bdb25;
+}
