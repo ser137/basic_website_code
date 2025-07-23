@@ -10,5 +10,5 @@ how the scene is presented. how to paint using the colours given by the styleshe
 
 
 main.js
-javascript code for serial presentation of images as defined by a user button press. how the user can change the paint colours, so to speak.
+javascript code for serial presentation of images as defined by a user button press. how the user can change the paint colours, so to speak
 
